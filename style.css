@@ -1,4 +1,15 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:#ffffff;
+    font-family: Arial;
 
+}
+h1{color:rgba(128, 131, 128, 0.747);}
 
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px;
+    border-radius: 25px;
+    
+
+}
